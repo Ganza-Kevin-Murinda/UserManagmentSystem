@@ -19,3 +19,5 @@
 2024-08-05 16:32:32 DEBUG UserServlet:31 - Received request for action: /list
 2024-08-05 16:32:32 DEBUG UserDao:112 - Retrieved all users: 5
 2024-08-05 16:32:32 DEBUG UserServlet:106 - Listing users: 5
+2024-08-05 16:35:10 DEBUG UserServlet:31 - Received request for action: /new
+2024-08-05 16:35:10 DEBUG UserServlet:112 - Showing new user form
